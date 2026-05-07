@@ -2,6 +2,7 @@
 
 > AI 在地時尚導購平台，具備「推薦」與「以圖搜圖」雙模式，深度整合電腦視覺與生成式 AI 技術。
 
+演示地址：https://cherrybigboy.github.io/webClothingAssistant/
 ## 功能展示
 
 本項目為系統展示界面的前端復刻，完整還原了交互流程與視覺設計，並使用 AI 生成的模擬圖片。
